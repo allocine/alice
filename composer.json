@@ -1,5 +1,5 @@
 {
-    "name": "nelmio/alice",
+    "name": "allocine/alice",
     "description": "Expressive fixtures generator",
     "keywords": ["fixture", "data", "test", "faker"],
     "type": "library",
